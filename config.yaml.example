@@ -1,0 +1,6 @@
+# listening IP address and port for the web server
+listen: 127.0.0.1:8080
+# IPv4 address used to send AXFR requests
+source-ip4: 127.0.0.1
+# IPv6 address used to send AXFR requests
+source-ip6: ::1
